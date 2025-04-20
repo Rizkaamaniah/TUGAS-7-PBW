@@ -1,2 +1,3 @@
-Nama: Rizka Amaniah 
-NPM: 2310631250076 
+**Nama**: Rizka Amaniah 
+
+**NPM**: 2310631250076 
